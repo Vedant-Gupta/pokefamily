@@ -1,0 +1,38 @@
+.welcome {
+    text-align: center;
+    margin-top: 200;
+    font-family: "Berlin Sans FB";
+    font-size: 80px;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: solid;
+  }
+.waiting {
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(255, 102, 153);
+  padding: 10px;
+  color: white;
+  margin-left: 35%;
+  margin-right: 35%;
+  border: solid;
+  border-color: rgb(179, 0, 59);
+  text-decoration: underline;
+  cursor: url(cursor: url('slowpoke.png'), auto;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background-image: url(http://triforcepower.com/wp-content/uploads/2015/11/SlowpokeAndFriends.jpg);
+  background-size: cover;
+}
+
+html {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam587.cur), progress !important;
+}
+
+a {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam586.cur), progress !important;
+}

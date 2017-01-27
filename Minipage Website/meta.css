@@ -1,0 +1,110 @@
+.title {
+    border: solid;
+    position: absolute;
+    top: 25;
+    left: 25;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    background: pink;
+    border-radius: 15px;
+    padding: 5px;
+}
+.slowpokebackground {
+    border: solid;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+}
+.white {
+    border: solid;
+    padding: 10px;
+    background: lightpink;
+    border-radius: 10px;
+}
+body {
+    background-color: rgb(255, 230, 255);
+}
+#menu {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    text-align: justify;
+    min-width: 500px;
+}
+#menu::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+#menu li {
+    display: inline-block;
+}
+
+.waterspin {
+    border: solid;
+    color: aqua;
+    float: left;
+    left: 0;
+    position: absolute;
+}
+
+.battleintro {
+    font-family: informal roman;
+    font-size: 50px;
+    margin-left: 350px;
+    position: relative;
+    bottom: 40px;
+    text-decoration: underline;
+}
+.battletext {
+    position: relative;
+    bottom: 50px;
+    margin-left: 320px;
+}
+.brofist{
+    border: solid;
+    color: hotpink;
+    position: absolute;
+    right: 0;
+    margin-top: 150px;
+}
+
+.showdown {
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    border: solid;
+    color: bisque
+}
+
+.megabro {
+    position: absolute;
+    top: 763px;
+    border: solid;
+    color: cornflowerblue;
+    left: 0;
+
+}
+
+.instagram {
+    margin-top: 450px;
+    margin-left: 1000px;
+    position: absolute;
+    right: 0;
+}
+#insta {
+    border: solid;
+    padding: 5px;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 1050px;
+    right: 0;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+html {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam587.cur), progress !important;
+}
+
+a {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam586.cur), progress !important;
+}

@@ -1,0 +1,124 @@
+.title {
+    border: solid;
+    position: absolute;
+    top: 25;
+    left: 25;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    background: pink;
+    border-radius: 15px;
+    padding: 5px;
+}
+.slowpokebackground {
+    border: solid;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+}
+.white {
+    border: solid;
+    padding: 10px;
+    background: lightpink;
+    border-radius: 10px;
+}
+.kantop {
+    text-align: center;
+    font-size: 25px;
+    font-family: monaco, monospace;
+    text-decoration: underline;
+}
+.kanto {
+    border: solid;
+    border-radius: 10px;
+    float: right;
+    right: 0;
+    top: 535px;
+    position: absolute;
+}
+.find {
+    border: solid;
+    text-align: center;
+}
+.johto {
+    float: right;
+    border: solid;
+    border-radius: 10px;
+    top: 870px;
+    right: 0;
+    position: absolute;
+}
+.kalos {
+    float: right;
+    border: solid;
+    border-radius: 10px;
+    position: absolute;
+}
+.alola {
+    float: right;
+    border: solid;
+    border-radius: 10px;
+    top: 875px;
+    position: absolute;
+}
+body {
+    background-color: rgb(255, 230, 255);
+}
+#menu {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    text-align: justify;
+    min-width: 500px;
+}
+#menu::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+#menu li {
+    display: inline-block;
+}
+#caption1 {
+    position: absolute;
+    margin-top: 408px;
+    right: 0;
+    font-weight: bold;
+}
+#caption2 {
+    position: absolute;
+    margin-top: 640px;
+    right: 0;
+    font-weight: bold;
+}
+#caption3 {
+    position: absolute;
+    margin-top: 308px;
+    font-weight: bold;
+}
+#caption4 {
+    position: absolute;
+    margin-top: 650px;
+    font-weight: bold;
+}
+.instagram {
+    margin-top: 700px;
+    margin-left: 1000px;
+    position: absolute;
+    right: 0;
+}
+#insta {
+    border: solid;
+    padding: 5px;
+    position: absolute;
+    margin-top: 750px;
+    margin-left: 1050px;
+    right: 0;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+html {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam587.cur), progress !important;
+}
+
+a {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam586.cur), progress !important;
+}

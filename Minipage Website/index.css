@@ -1,0 +1,85 @@
+.title {
+    border: solid;
+    position: absolute;
+    top: 25;
+    left: 25;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    background: pink;
+    border-radius: 15px;
+    padding: 5px;
+}
+.slowpokebackground {
+    border: solid;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+}
+.white {
+    border: solid;
+    padding: 10px;
+    background: lightpink;
+    border-radius: 10px;
+}
+.slowpoke {
+    font-family: verdana, monospace;
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+.photo {
+    border: solid;
+    border-radius: 10px;
+    left: 0;
+    position: absolute;
+    margin-left: 8px;
+    margin-top: 200px;
+}
+body {
+    background-color: rgb(255, 230, 255);
+}
+#menu {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    text-align: justify;
+    min-width: 500px;
+}
+#menu::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+#menu li {
+    display: inline-block;
+}
+#gif {
+    border: solid;
+    border-radius: 10px;
+    float: left;
+    left: 0;
+}
+#overview {
+    border: solid;
+    overflow: scroll;
+}
+.instagram {
+    margin-top: 475px;
+    margin-left: 1000px;
+    position: absolute;
+}
+#insta {
+    border: solid;
+    padding: 5px;
+    position: absolute;
+    margin-top: 481px;
+    margin-left: 1050px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+html {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam587.cur), progress !important;
+}
+
+a {
+  cursor: url(http://cur.cursors-4u.net/games/gam-6/gam586.cur), progress !important;
+}
